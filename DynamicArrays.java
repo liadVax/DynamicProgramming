@@ -4,8 +4,9 @@ import java.util.Arrays;
 
 public class DynamicArrays {
 
-//return the largest sum in array
-//rules:
+//returns the maximum sum of a sub series 
+//the sub series can contain two even number next to each other
+//TLDR:
 //sum=even+odd GOOD , sum=odd+odd GOOD  , sum=even+even BAD 	
 //A=[1,2,9,4,5,0,4,10,4]
 //return 31 (1+2+9+4+5+0+10)
