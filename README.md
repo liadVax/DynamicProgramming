@@ -1,2 +1,2 @@
 ### Dynamic Programming
-Solution for some problems with dynamic programming learned in algorithms course
+Solutions for some problems with dynamic programming ,learned in algorithms course
